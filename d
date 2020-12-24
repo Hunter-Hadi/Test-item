@@ -1,0 +1,30 @@
+[33mcommit 254f96361cf0e1273a90d7e144d06fbc7f82bba8[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: ce877bd 54ececa
+Author: qlq <657794638@qq.com>
+Date:   Thu Dec 24 02:00:19 2020 +0800
+
+    修复bug+短视频 v5
+
+[33mcommit ce877bd4c1b36be4e697232c0c48aaa7c50529ff[m
+Author: qlq <657794638@qq.com>
+Date:   Thu Dec 24 01:52:16 2020 +0800
+
+    修复bugV4
+
+[33mcommit 54ececae57da4c181d416ad22e96235449d8fd64[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: qlq <657794638@qq.com>
+Date:   Thu Dec 24 01:48:49 2020 +0800
+
+    短视频分支
+
+[33mcommit 335549fd075d1e8f04a30de62c8205d254b832ca[m
+Author: qlq <657794638@qq.com>
+Date:   Wed Dec 23 23:59:50 2020 +0800
+
+    v2
+
+[33mcommit 388b7b14da2e595dafa17311c07f56c89b363c7f[m
+Author: qlq <657794638@qq.com>
+Date:   Wed Dec 23 23:55:22 2020 +0800
+
+    v1
